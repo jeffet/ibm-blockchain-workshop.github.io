@@ -34,12 +34,12 @@ You can also improve performance by dropping the image quality using the instruc
 
 ## Presentations
 - [IBM Blockchain Point of View]({{ site.url }}/docs/IBM-Blockchain-PoV.pdf)
-- [Blockchain Explained]({{ site.url }}/docs/Blockchain-Explained-v5.12.pdf)
+- [Blockchain Explained]({{ site.url }}/docs/Blockchain-Explained-v5.16.pdf)
 - [Vehicle Lifecycle Demo Intro]({{ site.url }}/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
-- [Blockchain Composer Explored]({{ site.url }}/docs/Composer-Explored-v2.10.pdf)
-- [Blockchain Architectures Explored]({{ site.url }}/docs/Architectures-Explored-v2.10.pdf)
-- [Fabric Explored]({{ site.url }}/docs/Fabric-Explored-v4.4.pdf)
-- [IBM Blockchain Platform Explained]({{ site.url }}/docs/IBM-Blockchain-Platform-Explained-v1.11.pdf)
+- [Modeling Blockchain Applications]({{ site.url }}/docs/Modeling-Blockchain-Applications-v1.0.pdf)
+- [Blockchain Architectures Explored]({{ site.url }}/docs/Architectures-Explored-v3.01.pdf)
+- [Fabric Explored]({{ site.url }}/docs/Fabric-Explored-v4.07.pdf)
+- [IBM Blockchain Platform Explained]({{ site.url }}/docs/IBM-Blockchain-Platform-Explained-v1.18.pdf)
 
 ## Helpful Links
 ### General
@@ -68,9 +68,19 @@ You can also improve performance by dropping the image quality using the instruc
 - [Make your blockchain smart contracts smarter with business rules](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
 
 
-## Lab Workbook
+## IBM Blockchain Platform V1 Lab Workbooks
 If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/HyperledgerFabricBlockchainLabsv1.0.pdf) online.
 
 If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/Lab%201%20-%20IBP%20Learn%20Blockchain%20Concepts.pdf.pdf) online.
 
 
+## IBM Blockchain Platform V2 Lab Workbooks
+If you don't have a copy of the lab 1 printed materials you can access the [Lab Workbook1]({{ site.url }}/docs/Lab1-IBPLearnBlockchainConcepts.pdf) online.
+
+If you don't have a copy of the lab 2 printed materials you can access the [Lab Workbook2]({{ site.url }}/docs/Lab2-IBPVSCodeDevelopingyourFirstContract.pdf) online.
+
+If you don't have a copy of the lab 3 printed materials you can access the [Lab Workbook3]({{ site.url }}/docs/Lab3-IBPVSCodeExtensionUsinganExistingContract.pdf) online.
+
+If you don't have a copy of the lab 4 printed materials you can access the [Lab Workbook4]({{ site.url }}/docs/Lab4-IBPVSCodeExtensionConnecttoExistingNetwork.pdf) online.
+
+If you don't have a copy of the lab 5 printed materials you can access the [Lab Workbook5]({{ site.url }}/docs/Lab5-IBPVSCodeExtensionImportCommercialPaperSample.pdf) online.
